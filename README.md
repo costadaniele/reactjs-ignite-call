@@ -1,16 +1,24 @@
+# React + Typescript + Vite
+
 `npx create-next-app@latest --use-npm`
 
 `npm i @ignite-ui/react@latest`
+
+## Eslint
 
 `npm i @rocketseat/eslint-config -D`
 
 `npm run lint -- --fix`
 
+## Ícones
+
 `npm i phosphor-react`
+
+## Zod
 
 `npm i react-hook-form @hookform/resolvers zod`
 
-<p> Prisma </p>
+ ## Prisma 
 
 `npm i prisma -D`
 
@@ -22,17 +30,17 @@
 
 `npx prisma studio`
 
-<p> axios </p>
+## axios
 
 `npm i axios`
 
-<p> Cookies dentro do Next </p>
+## Cookies dentro do Next
 
 `npm i nookies`
 
 `npm i @types/cookie -D`
 
-<p>Comando de instalação do next-auth</p> 
+## Comando de instalação do next-auth
 
 `npm install next-auth`
 
